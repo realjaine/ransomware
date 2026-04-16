@@ -65,9 +65,7 @@ This project aims to bridge the gap between:
 ---
 
 ## ⚙️ System Workflow
-
-![Workflow](docs/workflow.png)
-
+<img width="1024" height="1536" alt="ChatGPT Image Apr 16, 2026, 02_47_21 PM" src="https://github.com/user-attachments/assets/74a94623-57e8-4bc8-a2ac-12efaf3d9773" />
 ---
 
 ## 🧩 Detection Techniques
