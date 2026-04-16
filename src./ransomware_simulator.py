@@ -1,0 +1,1 @@
+print('Ransomware simulation placeholder')
